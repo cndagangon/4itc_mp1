@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/4itc_mp1/static/js/main.8a144aa9.js",
+    "static/media/Gradpic.jpg": "/4itc_mp1/static/media/Gradpic.fd548102563774c2ef1e.jpg",
+    "static/media/email.jpg": "/4itc_mp1/static/media/email.84cf885e680baa66fe33.jpg",
+    "static/media/contact.jpg": "/4itc_mp1/static/media/contact.7a6e68768a4c5e6f52a1.jpg",
+    "index.html": "/4itc_mp1/index.html",
+    "main.8a144aa9.js.map": "/4itc_mp1/static/js/main.8a144aa9.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.8a144aa9.js"
+  ]
+}
